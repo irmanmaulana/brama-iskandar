@@ -18,3 +18,4 @@ public class penjumlahan {
         System.out.println("\nMenampilkan Hasil :");
         System.out.println(angka1+" + "+angka2+" = "+hasil);      
     }
+    } 
